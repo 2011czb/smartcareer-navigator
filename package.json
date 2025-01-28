@@ -2,6 +2,9 @@
   "name": "smartcareer-navigator",
   "version": "0.1.0",
   "private": true,
+  "devDependencies": {
+   "@babel/plugin-proposal-private-property-in-object": "^7.18.6"
+ },
   "dependencies": {
     "nth-check": "^2.0.1",
     "css-select": "^5.1.0",
