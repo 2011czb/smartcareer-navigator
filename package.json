@@ -49,5 +49,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://2011czb.github.io/smartcareer-navigator"  // 设置为您的 GitHub Pages URL
 }
